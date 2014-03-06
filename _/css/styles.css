@@ -1,0 +1,12 @@
+
+.salesDetailTable {
+    
+}
+
+.salesDetailTable td{
+    border: 1px solid black;
+}
+
+.salesDetailTable tr td:nth-child(6), .salesDetailTable tr td:nth-child(7){
+    background: lightgreen;
+}
